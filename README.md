@@ -9,3 +9,6 @@ BOM:
 12x white blank DSA keycaps
 4x M3x16mm screws
 4x M3x5mx4mm heatset inserts
+
+
+P.S. i ONLY found out there was a much neater way for my pcb schematic AFTER i finished it so apologies for the mess
