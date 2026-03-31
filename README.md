@@ -5,7 +5,7 @@ BOM:
 12x 1N4148 Diodes
 12x MX-Style switches
 1x EC11 Rotary encoders
-1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
+1x 0.91 inch OLED display
 12x white blank DSA keycaps
 4x M3x16mm screws
 4x M3x5mx4mm heatset inserts
