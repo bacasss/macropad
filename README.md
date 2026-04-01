@@ -13,7 +13,7 @@ BOM:
 4x M3x5mx4mm heatset inserts
 
 Full mockup:
-![macropad](images/full_mockup.png)
+![macropad](images/full-mockup.png)
 
 
 Schematic:
