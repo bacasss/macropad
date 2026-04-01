@@ -13,8 +13,8 @@ BOM:
 4x M3x5mx4mm heatset inserts
 
 Full mockup:
-![macropad](images/full mockup.png)
-
+![macropad](images/full_mockup.png)
+this is a full mockup of the entire design, including switches, the rotary encoder, the microcontroller, and the oled display
 
 Schematic:
 ![macropad](images/schematic.png)
@@ -24,5 +24,7 @@ i ONLY found out there was a much neater way for my pcb schematic AFTER i finish
 PCB:
 ![macropad](images/pcb.png)
 i tried to make the pcb as nice as possible, but this took so long haha
+here it is in 3D:
+![macropad](images/pcb_3d.png)
 
 
