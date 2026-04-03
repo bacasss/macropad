@@ -7,8 +7,8 @@ import busio
 from adafruit_ssd1306 import SSD1306_I2C
 
 keyboard = KMKKeyboard()
-keyboard.row_pins = (board.GP1, board.GP2, board.GP3)          # rows
-keyboard.col_pins = (board.GP7, board.GP8, board.GP9, board.GP10)  # columns
+keyboard.row_pins = (board.GP1, board.GP2, board.GP3)        
+keyboard.col_pins = (board.GP7, board.GP8, board.GP9, board.GP10)  
 keyboard.diode_orientation = keyboard.DIODE_COL2ROW
 
 keyboard.keymap = [
