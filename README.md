@@ -28,6 +28,6 @@ here it is in 3D:
 ![macropad](images/pcb_3d.png)
 
 final update, heres an image of the assembly with a translucent top plate:
-![macropad](images/translucentlatest)
+![macropad](images/translucentlatest.png)
 
 
