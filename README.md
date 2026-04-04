@@ -2,6 +2,8 @@ this is a 3x4 macropad, utilising 12 keys wired via matrix wiring with a rotary 
 
 this is the first (well second time including the 1 x 3 example) creating a pcb and it was so fun learning, drawing and arranging the components and it took so long but i feel that its a vital skill that i'll definately need to touch on again
 
+note: native files in cad folder
+
 BOM:
 1 Seeed XIAO RP2040
 12x 1N4148 Diodes
