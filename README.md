@@ -31,3 +31,6 @@ final update, heres an image of the assembly with a translucent top plate:
 ![macropad](images/translucentlatest.png)
 
 
+andd heres the back without the cover:
+![macropad](images/backlatest.png)
+
