@@ -1,4 +1,4 @@
-NOTE: for latest images, scroll down. I think these old images still have some value to this haha
+<img width="1919" height="1199" alt="Screenshot 2026-04-07 212506" src="https://github.com/user-attachments/assets/4c841246-b999-4e88-ba47-519c83941140" />NOTE: for latest images, scroll down. I think these old images still have some value to this haha
 
 this is a 3x4 macropad, utilising 12 keys wired via matrix wiring with a rotary encoder and an oled display. the main microcontroller is a seeed studio xiao rp2040.
 
@@ -52,4 +52,7 @@ The back of the PCB in 3D:
 
 Updated the case with holes to mount the PCB on:
 ![macropad](images/caseupdpcbholes.png)
+
+Clearer view of said holes because image isnt that clear on showing it:
+![macropad](images/caseupd.png)
 
