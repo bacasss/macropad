@@ -31,7 +31,7 @@ i tried to make the pcb as nice as possible, but this took so long haha
 here it is in 3D:
 ![macropad](images/pcb_3d.png)
 
-final update, heres an image of the assembly with a translucent top plate:
+final (apparently not) update, heres an image of the assembly with a translucent top plate:
 ![macropad](images/translucentlatest.png)
 
 
