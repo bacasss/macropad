@@ -1,4 +1,4 @@
-<img width="1919" height="1199" alt="Screenshot 2026-04-07 212506" src="https://github.com/user-attachments/assets/4c841246-b999-4e88-ba47-519c83941140" />NOTE: for latest images, scroll down. I think these old images still have some value to this haha
+NOTE: for latest images, scroll down. I think these old images still have some value to this haha
 
 this is a 3x4 macropad, utilising 12 keys wired via matrix wiring with a rotary encoder and an oled display. the main microcontroller is a seeed studio xiao rp2040.
 
