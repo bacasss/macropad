@@ -36,3 +36,5 @@ final update, heres an image of the assembly with a translucent top plate:
 andd heres the back without the cover:
 ![macropad](images/backlatest.png)
 
+UPDATE: added mounting holes to PCB and Case!
+
