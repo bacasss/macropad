@@ -1,3 +1,5 @@
+NOTE: for latest images, scroll down. I think these old images still have some value to this haha
+
 this is a 3x4 macropad, utilising 12 keys wired via matrix wiring with a rotary encoder and an oled display. the main microcontroller is a seeed studio xiao rp2040.
 
 this is the first (well second time including the 1 x 3 example) creating a pcb and it was so fun learning, drawing and arranging the components and it took so long but i feel that its a vital skill that i'll definately need to touch on again
@@ -36,5 +38,18 @@ final update, heres an image of the assembly with a translucent top plate:
 andd heres the back without the cover:
 ![macropad](images/backlatest.png)
 
-UPDATE: added mounting holes to PCB and Case!
+
+UPDATE: added mounting holes to PCB and Caseee:
+
+PCB with mouthing holes:
+![macropad](images/pcbupd.png)
+
+In 3D:
+![macropad](images/pcb3dupd.png)
+
+The back of the PCB in 3D:
+![macropad](images/pcb3dbackupd.png)
+
+Updated the case with holes to mount the PCB on:
+![macropad](images/caseupdpcbholes.png)
 
